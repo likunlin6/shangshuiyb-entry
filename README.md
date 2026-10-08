@@ -1,3 +1,7 @@
 # 商水县医保便民一码通固定入口
 
 本仓库仅托管固定二维码入口页面，不接收或保存群众提交的数据。
+## 管理后台固定入口
+
+https://likunlin6.github.io/shangshuiyb-entry/admin/
+
